@@ -1,0 +1,25 @@
+body
+{
+	
+	background-color: #C81722;
+	
+}
+
+.navbar
+{
+	 background-color:#FEBC20;
+}
+
+.navbar>a
+{
+ color:white;	
+}
+
+ 
+.navbar-toggler
+{
+	background-color:transparent;
+	border: 2px solid black;
+ 
+}
+ 
